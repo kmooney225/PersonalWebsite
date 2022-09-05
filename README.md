@@ -6,4 +6,3 @@ This is the code I am developing for my new portfolio website
 
 - Javascript
 - HTML/CSS
-- Python Flask
